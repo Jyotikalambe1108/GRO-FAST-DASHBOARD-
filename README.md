@@ -39,7 +39,7 @@ To view or edit the dashboard:
 * **Power Query** for data transformation
 
 ## Screenshots
-!(image_e97301.png)
+(https://github.com/Jyotikalambe1108/GRO-FAST-DASHBOARD-/blob/main/GROFAST%20REPORT.png)
 
 ## Author Profile
 * **Name:** [JYOTI KALAMBE]
